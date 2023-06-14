@@ -1,4 +1,4 @@
-﻿var apiKey = "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"; //insert API key here
+﻿var apiKey = ""; //insert API key here
 
 if(string.IsNullOrWhiteSpace(apiKey))
     apiKey = GetNonEmptyInput("No API key found. Insert your API key here:");
